@@ -12,6 +12,8 @@ The goal is to analyze housing features and build a model that can estimate the 
 🖥️ Building a simple user interface using Streamlit  
 
 ## 📂 Project Structure
+
+```text
 House-Price-Prediction/
 │
 ├── 📄 api1.py                  # API for model prediction
@@ -24,3 +26,4 @@ House-Price-Prediction/
 │
 ├── 📁 __pycache__/             # Python cache files
 │   └── visuals.cpython-310.pyc
+```
