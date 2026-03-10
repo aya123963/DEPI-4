@@ -27,3 +27,13 @@ House-Price-Prediction/
 ├── 📁 __pycache__/             # Python cache files
 │   └── visuals.cpython-310.pyc
 ```
+## 📊 Data Visualization
+
+### 🏠 House Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### 🔥 Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### 🛏️ Rooms vs Price
+![Rooms vs Price](images/rooms_vs_price.png)
