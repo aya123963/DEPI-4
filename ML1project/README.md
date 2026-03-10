@@ -30,10 +30,10 @@ House-Price-Prediction/
 ## 📊 Data Visualization
 
 ### 🏠 House Price Distribution
-![Price Distribution](images/Distribution of house prices.png)
+![Price Distribution](images/price_distribution.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/Feature correlation matrix.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### 🛏️ Rooms vs Price
-![Rooms vs Price](images/Rooms vs Price.png)
+![Rooms vs Price](images/rooms_vs_price.png)
